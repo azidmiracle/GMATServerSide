@@ -14,7 +14,8 @@ It will return a JSON format
 
         https://gmat-vocab-server.herokuapp.com/allgroup/
     
-    
+![all words](/photo/allgrp.PNG)
+ 
 2. fetch distint group
     
         https://gmat-vocab-server.herokuapp.com/distinctgrp/
@@ -24,8 +25,11 @@ It will return a JSON format
         
         https://gmat-vocab-server.herokuapp.com/group/{put number from 1 to 28}
     
-    
+![Words in a group](/photo/grp.PNG)
+
 4. fetch synonyms,definitions of a given word
         
         https://gmat-vocab-server.herokuapp.com/word/{type a word here}
     
+![synonyms and sentence](/photo/word.PNG
+
