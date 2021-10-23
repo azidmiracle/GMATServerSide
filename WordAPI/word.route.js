@@ -7,7 +7,7 @@ router.get("/:word", async (req, res) => {
     method: 'GET',
     url: `https://wordsapiv1.p.rapidapi.com/words/${req.params.word}`,
     headers: {
-      'x-rapidapi-key': '681c56379fmshb8ead66cd0977a8p1ba25ejsnfef42c382d93',
+      'x-rapidapi-key': '----------------------------------',
       'x-rapidapi-host': 'wordsapiv1.p.rapidapi.com'
     }
   };
