@@ -30,6 +30,7 @@ It will return a JSON format
 4. fetch synonyms,definitions of a given word
         
         https://gmat-vocab-server.herokuapp.com/word/{type a word here}
-    
-![synonyms and sentence](/photo/word.PNG
+ 
+ ![Words in a group](/photo/word.PNG) 
+
 
