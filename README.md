@@ -4,9 +4,7 @@ The vocacularies are grouped in to 28 groups.
 
 This API is used to fetch vocabularies in the mongodb database. 
 
-The example sentences are being scraped from https://sentence.yourdictionary.com/ website.
-
-The wordsapi is used to find the synonyms of a give word.
+The wordsapi is used to find the synonyms and senteces of a give word.
 
 Base url of the server: https://gmat-vocab-server.herokuapp.com/
 
